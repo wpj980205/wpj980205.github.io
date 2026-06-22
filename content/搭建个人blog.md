@@ -2,6 +2,5 @@
 
 ```sh
 npx quartz build --serve
-npx quartz sync --no-pull
 npx quartz sync
 ```
