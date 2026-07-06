@@ -1,5 +1,5 @@
 ---
-title: "Text2SQL: neocarta如何端到端构建Neo4j Semantic Layer"
+title: "DataAgent: neocarta如何端到端构建Neo4j Semantic Layer"
 date: 2026-06-26
 ---
 

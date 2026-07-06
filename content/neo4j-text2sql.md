@@ -1,5 +1,5 @@
 ---
-title: "Text2SQL: neo4j_text2sql如何使用Neo4j作为Semantic Layer"
+title: "DataAgent: neo4j_text2sql如何使用Neo4j作为Semantic Layer"
 date: 2026-06-25
 ---
 

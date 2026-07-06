@@ -1,5 +1,5 @@
 ---
-title: Compound Engineering
+title: Compound Engineering如何积攒复利，让后续工作更简单？
 date: 2026-06-26
 ---
 
@@ -113,7 +113,6 @@ date: 2026-06-26
 - Steve Yegge的[Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)依赖Molecular Expression of Work细粒度拆分工作，代表Compound Engineering的终极体现。
 
 ## 260122 [Compound Engineering vs Traditional Software Engineering - Why Linear Teams Can't Keep Up](https://www.vincirufus.com/en/posts/compound-engineering-vs-traditional-software-engineering/)
-
 - 传统软件工程是线性，复利工程是指数级
 - 复利工程还消除了传统软件工程中线性依赖带来的协调成本。
 - 举例计算AI+2名工程师 > 30个工程师。
